@@ -1,0 +1,11 @@
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\bin\Debug\Счётчик букв.exe.config
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\bin\Debug\Счётчик букв.exe
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\bin\Debug\Счётчик букв.pdb
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик букв.csprojAssemblyReference.cache
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик_букв.Form1.resources
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик_букв.Properties.Resources.resources
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик букв.csproj.GenerateResource.cache
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик букв.csproj.CoreCompileInputs.cache
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик букв.exe
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик букв.pdb
+C:\Users\арк\Desktop\All\Study\Git\Программа по ТЗ\Счётчик букв\Счётчик букв\obj\Debug\Счётчик_букв.Help.resources
